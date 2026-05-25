@@ -1,4 +1,4 @@
-<h1 align="center">YOUR NAME</h1>
+<h1 align="center">Chistopher B. Raper(Chis132060)</h1>
 
 <p align="center">
   Always Exploring Future Tech
@@ -33,7 +33,7 @@ I'm a Full-Stack Developer passionate about building scalable applications and f
 ## 💻 General Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,postgres,docker,js,ts,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,postgres,docker,js,ts,tailwind,figma,Notion,Obsidian" />
 </p>
 
 <p align="center">
