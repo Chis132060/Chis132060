@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">YOUR NAME</h1>
 
-<!--
-**Chis132060/Chis132060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Always Exploring Future Tech
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://instagram.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
+  <a href="https://discord.com/users/yourid">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ✨ About Me
+
+I'm a Full-Stack Developer passionate about building scalable applications and futuristic systems.
+
+- 🚀 Building modern web applications
+- 📚 Learning advanced backend architecture
+- 🔥 Exploring AI + SaaS systems
+
+---
+
+## 💻 General Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,postgres,docker,js,ts,tailwind,figma" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,vue,supabase,firebase,aws,git,cpp,swift,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight" />
+</p>
