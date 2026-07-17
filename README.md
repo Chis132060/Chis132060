@@ -14,7 +14,7 @@
   </a>
 
   <a href="mailto:your@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://mail.google.com/mail/u/0/#inbox" />
   </a>
 </p>
 
